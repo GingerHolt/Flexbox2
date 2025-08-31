@@ -1,0 +1,72 @@
+.container{
+    display: flex;
+    border: 5px solid blueviolet;
+    justify-content: space-around;
+    gap: 20px;
+    flex-wrap: wrap;
+    background-color: lightgray;
+}
+.box-1{
+    display: flex;
+    border: 5px solid blue;
+    border-radius: 20px;
+    align-items: center;
+    padding: 20px;
+    margin: 10px;
+    flex-direction: row;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.box-2{
+    display: flex;
+    border: 5px solid red;
+    border-radius: 30px;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 20px;
+    margin: 10px;
+    gap: 20px
+    ;
+}
+
+.one{
+    background-color: bisque;
+    border: 2px solid black
+}
+.two{
+    background-color: aqua;
+    border: 2px solid black;
+}
+.three{
+    background-color: rgb(233, 168, 196);
+    border: 2px solid black;
+}
+.four{
+    background-color: rgb(108, 135, 232);
+    border: 2px solid black;
+}
+.five{
+    background-color: rgb(236, 191, 100);
+    border: 2px solid black;
+}
+.six{
+    background-color: rgb(182, 73, 73);
+    border: 2px solid black;
+}
+.seven{
+    background-color: rgb(189, 232, 98);
+    border: 2px solid black;
+}
+.eight{
+    background-color: rgb(227, 100, 204);
+    border: 2px solid black;
+}
+.nine{
+    background-color: rgb(123, 114, 217);
+    border: 2px solid black;
+}
+.ten{
+    background-color: rgb(234, 185, 202);
+    border: 2px solid black;
+}
